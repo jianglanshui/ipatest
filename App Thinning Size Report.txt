@@ -1,0 +1,85 @@
+
+App Thinning Size Report for All Variants of sqilte
+
+Variant: sqilte-5DFC35F7-0A59-4050-9ACB-F891B4CE1677.ipa
+Supported variant descriptors: [device: iPad2,5, os-version: 9.0], [device: iPad2,7, os-version: 9.0], [device: iPad2,6, os-version: 9.0], [device: iPad2,1, os-version: 9.0], [device: iPad2,2, os-version: 9.0], [device: iPad2,3, os-version: 9.0], and [device: iPad2,4, os-version: 9.0]
+App + On Demand Resources size: 1.3 MB compressed, 1.9 MB uncompressed
+App size: 1.3 MB compressed, 1.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: sqilte-64E77729-BE14-4E31-9DF2-6FE8C52919A9.ipa
+Supported variant descriptors: [device: iPad3,3, os-version: 9.0], [device: iPad3,2, os-version: 9.0], [device: iPad3,6, os-version: 10.0], [device: iPad3,4, os-version: 10.0], [device: iPad3,1, os-version: 9.0], and [device: iPad3,5, os-version: 10.0]
+App + On Demand Resources size: 1.3 MB compressed, 1.9 MB uncompressed
+App size: 1.3 MB compressed, 1.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: sqilte-6B0D720E-0161-46BF-A6AF-AF69B629479C.ipa
+Supported variant descriptors: [device: iPad7,6, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad4,1, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad7,5, os-version: 11.0], [device: iPad5,2, os-version: 10.0], [device: iPad4,4, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad4,7, os-version: 12.2], [device: iPad6,11, os-version: 10.0], [device: iPad5,4, os-version: 10.0], [device: iPad5,4, os-version: 12.2], [device: iPad4,1, os-version: 10.0], [device: iPad6,7, os-version: 12.0], [device: iPad4,6, os-version: 10.0], [device: iPad5,3, os-version: 12.2], [device: iPad7,5, os-version: 12.0], [device: iPad4,3, os-version: 10.0], [device: iPad4,4, os-version: 10.0], [device: iPad4,7, os-version: 12.0], [device: iPad4,3, os-version: 12.2], [device: iPad4,9, os-version: 10.0], [device: iPad4,7, os-version: 10.0], [device: iPad5,1, os-version: 12.2], [device: iPad7,6, os-version: 11.0], [device: iPad5,1, os-version: 10.0], [device: iPad4,8, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad4,8, os-version: 12.0], [device: iPad6,12, os-version: 12.0], [device: iPad4,6, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad6,8, os-version: 10.0], [device: iPad4,9, os-version: 12.0], [device: iPad4,5, os-version: 10.0], [device: iPad6,12, os-version: 12.2], [device: iPad6,7, os-version: 10.0], [device: iPad4,2, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad4,6, os-version: 12.0], [device: iPad4,9, os-version: 12.2], [device: iPad6,12, os-version: 10.0], [device: iPad6,8, os-version: 12.2], [device: iPad4,5, os-version: 12.0], [device: iPad6,8, os-version: 12.0], [device: iPad4,8, os-version: 10.0], [device: iPad5,2, os-version: 12.0], [device: iPad7,5, os-version: 12.2], [device: iPad4,2, os-version: 12.0], [device: iPad4,2, os-version: 10.0], [device: iPad4,4, os-version: 12.2], [device: iPad5,4, os-version: 12.0], [device: iPad4,3, os-version: 12.0], [device: iPad5,3, os-version: 10.0], and [device: iPad5,3, os-version: 12.0]
+App + On Demand Resources size: 1.3 MB compressed, 2.1 MB uncompressed
+App size: 1.3 MB compressed, 2.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: sqilte-8353A3A7-E11A-46AA-AEA8-17C149DD5AFE.ipa
+Supported variant descriptors: [device: iPhone5,1, os-version: 10.0], [device: iPhone5,3, os-version: 10.0], [device: iPhone5,2, os-version: 10.0], and [device: iPhone5,4, os-version: 10.0]
+App + On Demand Resources size: 1.3 MB compressed, 1.9 MB uncompressed
+App size: 1.3 MB compressed, 1.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: sqilte-84D82F7B-8BFA-4F27-AAED-57D2A759A49E.ipa
+Supported variant descriptors: [device: iPad7,4, os-version: 10.0], [device: iPad7,1, os-version: 10.0], [device: iPad8,2, os-version: 12.0], [device: iPad8,2, os-version: 12.2], [device: iPad8,1, os-version: 12.0], [device: iPad7,3, os-version: 12.0], [device: iPad7,1, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad6,4, os-version: 12.0], [device: iPad8,4, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad7,3, os-version: 10.0], [device: iPad7,2, os-version: 12.0], [device: iPad7,3, os-version: 12.2], [device: iPad6,3, os-version: 10.0], [device: iPad7,4, os-version: 12.0], [device: iPad6,4, os-version: 10.0], [device: iPad7,1, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad8,5, os-version: 12.0], [device: iPad8,6, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad7,2, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad8,3, os-version: 12.0], [device: iPad8,1, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad8,5, os-version: 12.2], and [device: iPad7,2, os-version: 10.0]
+App + On Demand Resources size: 1.3 MB compressed, 2.1 MB uncompressed
+App size: 1.3 MB compressed, 2.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: sqilte-950486F8-9E9A-4B52-9DDE-D81082BF4D06.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 12.0], [device: iPhone10,4, os-version: 12.0], [device: iPhone9,3, os-version: 12.2], [device: iPhone10,4, os-version: 12.2], [device: iPhone10,1, os-version: 12.0], [device: iPhone10,1, os-version: 11.0], [device: iPhone10,4, os-version: 11.0], [device: iPhone9,1, os-version: 12.0], [device: iPhone9,1, os-version: 10.0], [device: iPhone9,3, os-version: 10.0], [device: iPhone9,1, os-version: 12.2], and [device: iPhone10,1, os-version: 12.2]
+App + On Demand Resources size: 1.3 MB compressed, 2.1 MB uncompressed
+App size: 1.3 MB compressed, 2.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: sqilte-ACAA867D-628A-4AEA-9DCD-D0A7FE1CF16C.ipa
+Supported variant descriptors: [device: iPhone11,6, os-version: 12.2], [device: iPhone9,4, os-version: 10.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone11,2, os-version: 12.2], [device: iPhone10,2, os-version: 12.0], [device: iPhone10,3, os-version: 12.2], [device: iPhone10,5, os-version: 11.0], [device: iPhone9,2, os-version: 10.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone10,5, os-version: 12.0], [device: iPhone10,6, os-version: 12.0], [device: iPhone10,6, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone10,2, os-version: 11.0], [device: iPhone9,2, os-version: 12.2], [device: iPhone9,4, os-version: 12.2], [device: iPhone10,2, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone10,3, os-version: 11.0], [device: iPhone9,4, os-version: 12.0], [device: iPhone10,6, os-version: 11.0], [device: iPhone11,6, os-version: 12.0], and [device: iPhone9,2, os-version: 12.0]
+App + On Demand Resources size: 1.3 MB compressed, 2.2 MB uncompressed
+App size: 1.3 MB compressed, 2.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: sqilte-B2139515-2F03-4376-B518-C29B901C8B56.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.0] and [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 1.3 MB compressed, 2.1 MB uncompressed
+App size: 1.3 MB compressed, 2.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: sqilte-BC88BD09-49D2-4FF1-ABAD-4BEE25B2438C.ipa
+Supported variant descriptors: [device: iPod7,1, os-version: 10.0], [device: iPhone6,1, os-version: 10.0], [device: iPhone8,1, os-version: 12.2], [device: iPod7,1, os-version: 12.2], [device: iPhone8,1, os-version: 12.0], [device: iPhone6,2, os-version: 10.0], [device: iPhone8,1, os-version: 10.0], [device: iPhone6,2, os-version: 12.0], [device: iPhone8,4, os-version: 10.0], [device: iPhone7,2, os-version: 12.0], [device: iPhone6,1, os-version: 12.2], [device: iPhone8,4, os-version: 12.2], [device: iPhone7,2, os-version: 10.0], [device: iPhone6,1, os-version: 12.0], [device: iPhone8,4, os-version: 12.0], [device: iPhone6,2, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], and [device: iPod7,1, os-version: 12.0]
+App + On Demand Resources size: 1.3 MB compressed, 2.1 MB uncompressed
+App size: 1.3 MB compressed, 2.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: sqilte-CBDC0811-DBC8-4610-8FCB-9F96306E65F0.ipa
+Supported variant descriptors: [device: iPhone4,1, os-version: 9.0] and [device: iPod5,1, os-version: 9.0]
+App + On Demand Resources size: 1.3 MB compressed, 1.9 MB uncompressed
+App size: 1.3 MB compressed, 1.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: sqilte-F635CB8E-FF1F-40A0-9107-C5D7287B0825.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 10.0], [device: iPhone7,1, os-version: 10.0], [device: iPhone8,2, os-version: 12.2], [device: iPhone7,1, os-version: 12.0], [device: iPhone8,2, os-version: 12.0], and [device: iPhone7,1, os-version: 12.2]
+App + On Demand Resources size: 1.3 MB compressed, 2.2 MB uncompressed
+App size: 1.3 MB compressed, 2.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: sqilte.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 1.9 MB compressed, 3.2 MB uncompressed
+App size: 1.9 MB compressed, 3.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
