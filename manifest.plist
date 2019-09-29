@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/jianglanshui/ipatest/test.ipa</string>
+					<string>https://raw.githubusercontent.com/jianglanshui/ipatest/master/test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/jianglanshui/ipatest/icon.png</string>
+					<string>https://raw.githubusercontent.com/jianglanshui/ipatest/master/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/jianglanshui/ipatest/icon.png</string>
+					<string>https://raw.githubusercontent.com/jianglanshui/ipatest/master/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/jianglanshui/ipatest/Apps/test-ACAA867D-628A-4AEA-9DCD-D0A7FE1CF16C.ipa</string>
+					<string>https://raw.githubusercontent.com/jianglanshui/ipatest/master/Apps/test-ACAA867D-628A-4AEA-9DCD-D0A7FE1CF16C.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -172,7 +172,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/jianglanshui/ipatest/Apps/test-950486F8-9E9A-4B52-9DDE-D81082BF4D06.ipa</string>
+					<string>https://raw.githubusercontent.com/jianglanshui/ipatest/master/Apps/test-950486F8-9E9A-4B52-9DDE-D81082BF4D06.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -236,7 +236,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/jianglanshui/ipatest/Apps/test-84D82F7B-8BFA-4F27-AAED-57D2A759A49E.ipa</string>
+					<string>https://raw.githubusercontent.com/jianglanshui/ipatest/master/Apps/test-84D82F7B-8BFA-4F27-AAED-57D2A759A49E.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -458,7 +458,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/jianglanshui/ipatest/Apps/test-F635CB8E-FF1F-40A0-9107-C5D7287B0825.ipa</string>
+					<string>https://raw.githubusercontent.com/jianglanshui/ipatest/master/Apps/test-F635CB8E-FF1F-40A0-9107-C5D7287B0825.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -496,7 +496,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/jianglanshui/ipatest/Apps/test-CBDC0811-DBC8-4610-8FCB-9F96306E65F0.ipa</string>
+					<string>https://raw.githubusercontent.com/jianglanshui/ipatest/master/Apps/test-CBDC0811-DBC8-4610-8FCB-9F96306E65F0.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -509,7 +509,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/jianglanshui/ipatest/Apps/test-6B0D720E-0161-46BF-A6AF-AF69B629479C.ipa</string>
+					<string>https://raw.githubusercontent.com/jianglanshui/ipatest/master/Apps/test-6B0D720E-0161-46BF-A6AF-AF69B629479C.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -768,7 +768,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/jianglanshui/ipatest/Apps/test-64E77729-BE14-4E31-9DF2-6FE8C52919A9.ipa</string>
+					<string>https://raw.githubusercontent.com/jianglanshui/ipatest/master/Apps/test-64E77729-BE14-4E31-9DF2-6FE8C52919A9.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -785,7 +785,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/jianglanshui/ipatest/Apps/test-BC88BD09-49D2-4FF1-ABAD-4BEE25B2438C.ipa</string>
+					<string>https://raw.githubusercontent.com/jianglanshui/ipatest/master/Apps/test-BC88BD09-49D2-4FF1-ABAD-4BEE25B2438C.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -875,7 +875,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/jianglanshui/ipatest/Apps/test-5DFC35F7-0A59-4050-9ACB-F891B4CE1677.ipa</string>
+					<string>https://raw.githubusercontent.com/jianglanshui/ipatest/master/Apps/test-5DFC35F7-0A59-4050-9ACB-F891B4CE1677.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -893,7 +893,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/jianglanshui/ipatest/Apps/test-8353A3A7-E11A-46AA-AEA8-17C149DD5AFE.ipa</string>
+					<string>https://raw.githubusercontent.com/jianglanshui/ipatest/master/Apps/test-8353A3A7-E11A-46AA-AEA8-17C149DD5AFE.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -908,7 +908,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/jianglanshui/ipatest/Apps/test-B2139515-2F03-4376-B518-C29B901C8B56.ipa</string>
+					<string>https://raw.githubusercontent.com/jianglanshui/ipatest/master/Apps/test-B2139515-2F03-4376-B518-C29B901C8B56.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
