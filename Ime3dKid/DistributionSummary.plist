@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ime3dKid.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>5A59597454261DC500083C8CEE1555A876A8E34A</string>
+				<key>dateExpires</key>
+				<string>2021/8/26</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>73W38KTARF.com.ime3d.kid</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>73W38KTARF</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Ime3dKid.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>46d4ad32-99e7-4081-9bef-f3d611a57d96</string>
+				<key>name</key>
+				<string>mell1</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>73W38KTARF</string>
+				<key>name</key>
+				<string>AoWei (Shanghai) Digital Technology Co., Ltd</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

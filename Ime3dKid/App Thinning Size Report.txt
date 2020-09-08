@@ -1,0 +1,50 @@
+
+App Thinning Size Report for All Variants of Ime3dKid
+
+Variant: Ime3dKid-0AF24317-A91F-48DC-A591-395FEC23E2F5.ipa
+Supported variant descriptors: [device: iPad8,8, os-version: 12.0], [device: iPad8,8, os-version: 12.2], [device: iPad7,2, os-version: 12.0], [device: iPad11,4, os-version: 12.2], [device: iPad6,4, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad6,3, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad7,3, os-version: 12.0], [device: iPad8,2, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad8,7, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad11,1, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad8,4, os-version: 12.0], [device: iPad7,2, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad8,6, os-version: 12.0], [device: iPad7,1, os-version: 12.0], [device: iPad7,3, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad8,5, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad8,3, os-version: 12.0], [device: iPad8,1, os-version: 12.0], and [device: iPad11,3, os-version: 12.2]
+App + On Demand Resources size: 50.6 MB compressed, 53.2 MB uncompressed
+App size: 50.6 MB compressed, 53.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ime3dKid-2A4FBBAA-9902-42F1-B7A0-6716C1D7F6DE.ipa
+Supported variant descriptors: [device: iPad6,3, os-version: 11.0], [device: iPad7,1, os-version: 11.0], [device: iPad7,3, os-version: 11.0], [device: iPad7,4, os-version: 11.0], [device: iPad6,4, os-version: 11.0], and [device: iPad7,2, os-version: 11.0]
+App + On Demand Resources size: 50.6 MB compressed, 53.2 MB uncompressed
+App size: 50.6 MB compressed, 53.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ime3dKid-2BD552E8-E5FF-4431-9CB2-00A2680C14FF.ipa
+Supported variant descriptors: [device: iPad4,6, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad5,4, os-version: 12.2], [device: iPad5,1, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad5,4, os-version: 12.0], [device: iPad4,2, os-version: 12.0], [device: iPad4,9, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad4,1, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPad4,3, os-version: 12.0], [device: iPad4,3, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad5,2, os-version: 12.0], [device: iPad5,3, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad6,7, os-version: 12.0], [device: iPad7,5, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad6,11, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad4,2, os-version: 12.2], [device: iPad6,8, os-version: 12.0], [device: iPad4,8, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad5,3, os-version: 12.0], [device: iPad6,8, os-version: 12.2], [device: iPad4,7, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPad4,8, os-version: 12.0], [device: iPad6,11, os-version: 12.2], [device: iPad6,12, os-version: 12.0], and [device: iPad6,7, os-version: 12.2]
+App + On Demand Resources size: 50.6 MB compressed, 53.2 MB uncompressed
+App size: 50.6 MB compressed, 53.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ime3dKid-347410A1-F74C-4ABC-BE62-BD62A42DBA99.ipa
+Supported variant descriptors: [device: iPad4,2, os-version: 11.0], [device: iPad4,3, os-version: 11.0], [device: iPad4,5, os-version: 11.0], [device: iPad4,8, os-version: 11.0], [device: iPad6,11, os-version: 11.0], [device: iPad7,5, os-version: 11.0], [device: iPad7,6, os-version: 11.0], [device: iPad5,4, os-version: 11.0], [device: iPad6,12, os-version: 11.0], [device: iPad4,9, os-version: 11.0], [device: iPad5,3, os-version: 11.0], [device: iPad4,7, os-version: 11.0], [device: iPad4,1, os-version: 11.0], [device: iPad4,4, os-version: 11.0], [device: iPad5,2, os-version: 11.0], [device: iPad5,1, os-version: 11.0], [device: iPad6,7, os-version: 11.0], [device: iPad6,8, os-version: 11.0], and [device: iPad4,6, os-version: 11.0]
+App + On Demand Resources size: 50.6 MB compressed, 53.2 MB uncompressed
+App size: 50.6 MB compressed, 53.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ime3dKid-88372958-59A9-4A35-BF2C-CDD0A8FA1F99.ipa
+Supported variant descriptors: [device: iPad6,7, os-version: 13.0], [device: iPad7,11, os-version: 13.0], [device: iPad7,5, os-version: 13.0], [device: iPad5,1, os-version: 13.0], [device: iPad6,12, os-version: 13.0], [device: iPad7,6, os-version: 13.0], [device: iPad5,4, os-version: 13.0], [device: iPad6,8, os-version: 13.0], [device: iPad5,2, os-version: 13.0], [device: iPad6,11, os-version: 13.0], [device: iPad5,3, os-version: 13.0], and [device: iPad7,12, os-version: 13.0]
+App + On Demand Resources size: 50.6 MB compressed, 53.2 MB uncompressed
+App size: 50.6 MB compressed, 53.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ime3dKid-C3E1FF9C-2357-4165-BF57-AF4504032C80.ipa
+Supported variant descriptors: [device: iPad7,1, os-version: 13.0], [device: iPad8,12, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad7,4, os-version: 13.0], [device: iPad8,3, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad7,2, os-version: 13.0], [device: iPad8,9, os-version: 13.0], [device: iPad8,8, os-version: 13.0], [device: iPad8,11, os-version: 13.0], [device: iPad8,10, os-version: 13.0], [device: iPad8,7, os-version: 13.0], [device: iPad6,3, os-version: 13.0], [device: iPad6,4, os-version: 13.0], [device: iPad11,1, os-version: 13.0], [device: iPad11,2, os-version: 13.0], [device: iPad11,4, os-version: 13.0], [device: iPad8,2, os-version: 13.0], [device: iPad7,3, os-version: 13.0], [device: iPad8,1, os-version: 13.0], and [device: iPad8,4, os-version: 13.0]
+App + On Demand Resources size: 50.6 MB compressed, 53.2 MB uncompressed
+App size: 50.6 MB compressed, 53.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Ime3dKid.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 51 MB compressed, 53.7 MB uncompressed
+App size: 51 MB compressed, 53.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
